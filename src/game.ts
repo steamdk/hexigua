@@ -17,7 +17,7 @@ class Demo extends Phaser.Scene {
     private soundList: any = new Map()
     
     constructor() {
-        super('demo');
+        super('demo');;;
 
     }
 
